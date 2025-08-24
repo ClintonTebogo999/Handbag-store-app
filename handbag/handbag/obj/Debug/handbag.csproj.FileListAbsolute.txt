@@ -1,0 +1,10 @@
+C:\Users\50822284\source\repos\handbag\handbag\bin\Debug\handbag.exe.config
+C:\Users\50822284\source\repos\handbag\handbag\bin\Debug\handbag.exe
+C:\Users\50822284\source\repos\handbag\handbag\bin\Debug\handbag.pdb
+C:\Users\50822284\source\repos\handbag\handbag\obj\Debug\handbag.csproj.AssemblyReference.cache
+C:\Users\50822284\source\repos\handbag\handbag\obj\Debug\handbag.Form1.resources
+C:\Users\50822284\source\repos\handbag\handbag\obj\Debug\handbag.Properties.Resources.resources
+C:\Users\50822284\source\repos\handbag\handbag\obj\Debug\handbag.csproj.GenerateResource.cache
+C:\Users\50822284\source\repos\handbag\handbag\obj\Debug\handbag.csproj.CoreCompileInputs.cache
+C:\Users\50822284\source\repos\handbag\handbag\obj\Debug\handbag.exe
+C:\Users\50822284\source\repos\handbag\handbag\obj\Debug\handbag.pdb
